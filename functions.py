@@ -44,6 +44,10 @@ def registrar_ciudades():
         else:
             print("That city has already been registered!")
             continue
+        
+
+    
+        
 
 def eliminar_ciudad():
     data = leer_datos_ciudades()
