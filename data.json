@@ -4,6 +4,16 @@
             "country": "Col",
             "zip": 123,
             "population": 1000000
+        },
+        "Pasto": {
+            "country": "Colombia",
+            "zip": 987,
+            "population": 80000
+        },
+        "Florida": {
+            "country": "Colombia",
+            "zip": 4567,
+            "population": 500000
         }
     }
 }
